@@ -1,7 +1,4 @@
 links:
-  - title: Latest posts
-    url: /blog
-    desc: Click here to read my latest posts.
- - title: About me
-    url: /about 
-    desc: Click here to learn more about me
+  - title: About ME
+    url: /aboutme
+    desc: About nadim
