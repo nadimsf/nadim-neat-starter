@@ -3,5 +3,5 @@ links:
     url: /blog
     desc: "Click here to read my latest posts. "
   - title: About me
-    url: /about
+    url: /posts/my-first-post/
     desc: Click here to learn more about me.
