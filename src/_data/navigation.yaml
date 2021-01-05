@@ -2,4 +2,4 @@ items:
   - text: blog
     url: /blog
   - text: about me
-    url: "/about"
+    url: /posts/my-first-post/
